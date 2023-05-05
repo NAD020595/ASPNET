@@ -1,0 +1,15 @@
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\bin\Debug\net7.0\CS002_VariablesConstantsIO.exe
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\bin\Debug\net7.0\CS002_VariablesConstantsIO.deps.json
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\bin\Debug\net7.0\CS002_VariablesConstantsIO.runtimeconfig.json
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\bin\Debug\net7.0\CS002_VariablesConstantsIO.dll
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\bin\Debug\net7.0\CS002_VariablesConstantsIO.pdb
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\CS002_VariablesConstantsIO.csproj.AssemblyReference.cache
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\CS002_VariablesConstantsIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\CS002_VariablesConstantsIO.AssemblyInfoInputs.cache
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\CS002_VariablesConstantsIO.AssemblyInfo.cs
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\CS002_VariablesConstantsIO.csproj.CoreCompileInputs.cache
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\CS002_VariablesConstantsIO.dll
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\refint\CS002_VariablesConstantsIO.dll
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\CS002_VariablesConstantsIO.pdb
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\CS002_VariablesConstantsIO.genruntimeconfig.cache
+D:\NAD\Learn\ASPNET\BASIC\CS002_VariablesConstantsIO\obj\Debug\net7.0\ref\CS002_VariablesConstantsIO.dll
